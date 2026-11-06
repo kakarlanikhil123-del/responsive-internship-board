@@ -94,7 +94,7 @@ This is a static site and can be deployed with GitHub Pages:
 5. Wait for the Pages URL to appear and verify the deployed site.
 6. Add the deployed URL to this README.
 
-**Live preview:** _Add your GitHub Pages URL here after deployment._
+**Live preview:** [View Responsive Internship Board](https://kakarlanikhil123-del.github.io/responsive-internship-board/)
 
 ## Submission
 
