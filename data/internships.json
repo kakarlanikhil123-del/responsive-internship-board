@@ -1,0 +1,74 @@
+{
+  "internships": [
+    {
+      "id": "INT-101",
+      "title": "Frontend Intern",
+      "domain": "Full Stack Development",
+      "mode": "Remote",
+      "location": "India",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "openings": 3,
+      "description": "Build accessible, responsive interfaces and work with a small product team to improve the student internship experience."
+    },
+    {
+      "id": "INT-102",
+      "title": "API Engineering Intern",
+      "domain": "Full Stack Development",
+      "mode": "Hybrid",
+      "location": "Pune",
+      "skills": [
+        "Node.js",
+        "SQL",
+        "Testing"
+      ],
+      "openings": 2,
+      "description": "Help design and test REST endpoints, work with relational data, and document predictable API responses."
+    },
+    {
+      "id": "INT-103",
+      "title": "UI/UX Intern",
+      "domain": "UI/UX",
+      "mode": "Remote",
+      "location": "India",
+      "skills": [
+        "Figma",
+        "Research",
+        "Accessibility"
+      ],
+      "openings": 1,
+      "description": "Support user research and create clear, inclusive interface flows for web and mobile experiences."
+    },
+    {
+      "id": "INT-104",
+      "title": "Data Analyst Intern",
+      "domain": "Data Analytics",
+      "mode": "On-site",
+      "location": "Bengaluru",
+      "skills": [
+        "Excel",
+        "SQL",
+        "Data visualisation"
+      ],
+      "openings": 2,
+      "description": "Clean fictional datasets, explore trends, and communicate findings through concise visual reports."
+    },
+    {
+      "id": "INT-105",
+      "title": "Security Operations Intern",
+      "domain": "Cyber Security",
+      "mode": "Remote",
+      "location": "India",
+      "skills": [
+        "Linux",
+        "Logs",
+        "Networking"
+      ],
+      "openings": 1,
+      "description": "Learn defensive monitoring workflows by reviewing sample logs and documenting security observations."
+    }
+  ]
+}
